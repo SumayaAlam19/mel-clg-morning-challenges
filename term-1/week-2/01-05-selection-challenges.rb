@@ -19,8 +19,16 @@
 
 ###
 
-puts "Challenge 1"
-puts "Please enter a username..."
+# puts "Challenge 1"
+# puts "Please enter a username"
+# username=gets.chomp.downcase
+# username2= "@#{username}"
+# if username.length >=6 && username.length<=12
+#     puts "your new username is #{username2}"
+# else 
+#     puts "your name is not within 6 to 12 characters"
+# end
+
 
 # 2.
 
@@ -40,5 +48,16 @@ puts "Please enter a username..."
 
 # Finally, implement the menu system twice - once using if/elsif/else, and once using case.
 
-puts "Challenge 2"
-puts "Please enter a menu option"
+# puts "Challenge 2"
+# if Option A 
+#     prints "create new post"
+# ifelse Option B 
+#     prints "edit post"
+# ifelse Option C 
+#     prints "delete post"
+# ifelse Option D 
+#     prints "heart post"
+# ifelse Option E 
+#     print "un-heart post"
+# puts "Please enter a menu option"
+
